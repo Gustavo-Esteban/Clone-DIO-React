@@ -1,9 +1,10 @@
 {
     "users": [
-        {"id": 1, "name": "Gustavo", "email": "Gustavo@hotmail.com", "senha": "123456"},
-        {"id": 2, "name": "Janz", "email": "Janz@hotmail.com", "senha": "123456"},
-        {"id": 3, "name": "Mayara", "email": "Mayara@hotmail.com", "senha": "123456"},
-        {"id": 4, "name": "Diogo", "email": "Diogo@hotmail.com", "senha": "123456"},
-        {"id": 5, "name": "Petrucci", "email": "Petrucci@hotmail.com", "senha": "123456"}
+        {"id": 1, "name": "Gustavo", "email": "Gustavo@hotmail.com", "password": "123456"},
+        {"id": 2, "name": "Janz", "email": "Janz@hotmail.com", "password": "123456"},
+        {"id": 3, "name": "Mayara", "email": "Mayara@hotmail.com", "password": "123456"},
+        {"id": 4, "name": "Diogo", "email": "Diogo@hotmail.com", "password": "123456"},
+        {"id": 5, "name": "Petrucci", "email": "Petrucci@hotmail.com", "password": "123456"},
+        {"id": 6, "name": "Raquel", "email": "Raquel@hotmail.com", "password": "123456"}
     ]
 }
